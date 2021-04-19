@@ -109,7 +109,7 @@ class Main extends React.Component {
           <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/Jox7yyJwOGs"
+            src="https://youtu.be/HKhUFKrsljk"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen
@@ -117,7 +117,7 @@ class Main extends React.Component {
           <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/TEem5A8zWGA"
+            src="https://youtu.be/Uv1KMlbzOSs"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen
@@ -125,7 +125,7 @@ class Main extends React.Component {
           <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/FGGDuSvPUJM"
+            src="https://youtu.be/Jox7yyJwOGs"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen
