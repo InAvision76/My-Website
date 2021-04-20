@@ -106,29 +106,41 @@ class Main extends React.Component {
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen
           ></iframe>
-          <iframe
-            width="560"
-            height="315"
-            src="https://youtu.be/HKhUFKrsljk"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
+
+          <iframe width="560" 
+          height="315" 
+          src="https://www.youtube.com/embed/Jox7yyJwOGs" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen
           ></iframe>
-          <iframe
-            width="560"
-            height="315"
-            src="https://youtu.be/Uv1KMlbzOSs"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
+
+          <iframe width="560" 
+          height="315" 
+          src="https://www.youtube.com/embed/HKhUFKrsljk" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen
           ></iframe>
-          <iframe
-            width="560"
-            height="315"
-            src="https://youtu.be/Jox7yyJwOGs"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
+
+          <iframe width="560" 
+          height="315" 
+          src="https://www.youtube.com/embed/Uv1KMlbzOSs" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen
+          ></iframe>
+
+          <iframe width="560" 
+          height="315" 
+          src="https://www.youtube.com/embed/1IGxxGx0WjQ" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen
           ></iframe>
 
           <p>
