@@ -3,8 +3,8 @@ import React from 'react'
 import pic01 from '../images/pic01.jpg'
 import pic02 from '../images/pic02.jpg'
 import pic03 from '../images/pic03.jpg'
-import mypic from '../images/my-pic.jpg'
-import videographer from '../images/videographer.jpg'
+import editor from '../images/editor.jpg'
+import my_pic from '../images/my_pic.jpg'
 import emailjs from 'emailjs-com'
 
 import {
@@ -66,7 +66,7 @@ class Main extends React.Component {
         >
           <h2 className="major">Intro</h2>
           <span className="image main">
-            <img src={mypic} alt="" />
+            <img src={my_pic} alt="" />
           </span>
           <p>
             Since graduating from college at UNLV 2004, I have been working as a
@@ -167,7 +167,7 @@ class Main extends React.Component {
         >
           <h2 className="major">About</h2>
           <span className="image main">
-            <img src={videographer} alt="" />
+            <img src={editor} alt="" />
           </span>
 
           <p>
